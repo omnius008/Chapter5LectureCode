@@ -1,0 +1,10 @@
+C:\Users\hwils\Desktop\IT242\Chapter5LectureCode\Chapter5lectureCode\Chapter5lectureCode\bin\Debug\netcoreapp3.1\Chapter5lectureCode.exe
+C:\Users\hwils\Desktop\IT242\Chapter5LectureCode\Chapter5lectureCode\Chapter5lectureCode\bin\Debug\netcoreapp3.1\Chapter5lectureCode.deps.json
+C:\Users\hwils\Desktop\IT242\Chapter5LectureCode\Chapter5lectureCode\Chapter5lectureCode\bin\Debug\netcoreapp3.1\Chapter5lectureCode.runtimeconfig.json
+C:\Users\hwils\Desktop\IT242\Chapter5LectureCode\Chapter5lectureCode\Chapter5lectureCode\bin\Debug\netcoreapp3.1\Chapter5lectureCode.runtimeconfig.dev.json
+C:\Users\hwils\Desktop\IT242\Chapter5LectureCode\Chapter5lectureCode\Chapter5lectureCode\bin\Debug\netcoreapp3.1\Chapter5lectureCode.dll
+C:\Users\hwils\Desktop\IT242\Chapter5LectureCode\Chapter5lectureCode\Chapter5lectureCode\bin\Debug\netcoreapp3.1\Chapter5lectureCode.pdb
+C:\Users\hwils\Desktop\IT242\Chapter5LectureCode\Chapter5lectureCode\Chapter5lectureCode\obj\Debug\netcoreapp3.1\Chapter5lectureCode.AssemblyInfoInputs.cache
+C:\Users\hwils\Desktop\IT242\Chapter5LectureCode\Chapter5lectureCode\Chapter5lectureCode\obj\Debug\netcoreapp3.1\Chapter5lectureCode.AssemblyInfo.cs
+C:\Users\hwils\Desktop\IT242\Chapter5LectureCode\Chapter5lectureCode\Chapter5lectureCode\obj\Debug\netcoreapp3.1\Chapter5lectureCode.dll
+C:\Users\hwils\Desktop\IT242\Chapter5LectureCode\Chapter5lectureCode\Chapter5lectureCode\obj\Debug\netcoreapp3.1\Chapter5lectureCode.pdb
